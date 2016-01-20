@@ -70,4 +70,6 @@ In the experiments shiny App, results will be changed with different simulation 
 
 2. The CLI experiment result shows that the variance of the average of samples will become less with the increaing sample size, and it will converge to theoretical variance / sample size, and the distribution of average of samples is approximately normal, as a bell curve. It proves that Central Limit Theorem ( CLT ) is correct.
 
+Note: Visit https://github.com/iamxyz/clt_slidify for all of the project files for clt_slidify.    
+
 
