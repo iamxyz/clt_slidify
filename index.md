@@ -23,14 +23,14 @@ The result is that $$\frac{\bar X_n - \mu}{\sigma / \sqrt{n}}= \frac{\sqrt n (\b
 --- .class #id 
 
 ## Experiment for the Law of Large Numbers  ( LLN )
-Simulation: Exponential ( lambda = 0.2 ) , Sample size: n = 20, Num of Observers: 20000
+Simulation: Exponential ( lambda = 0.2 ), Sample size: n = 20 ( R code running with echo = FALSE)
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
 
 --- .class #id 
 
 ## Experiment for the Central Limit Theorem ( CLT )
-Simulation: Exponential ( lambda = 0.2 ) , Sample size: n = 40, Num of Observers: 40000
+Simulation: Exponential ( lambda = 0.2 ), Sample size: n = 40 ( R code running with echo = FALSE)
 
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
